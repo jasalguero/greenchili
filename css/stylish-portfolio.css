@@ -127,7 +127,7 @@ body {
 /* Services */
 
 .services {
-  background: #7fbbda;
+  background: #213F28;
   padding: 50px 0;
   color: #ffffff;
 }
@@ -155,7 +155,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/callout2.jpg) no-repeat center center fixed;
+  background: url(../img/callout.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -233,4 +233,23 @@ i.scroll:hover {
 	height: 75%;
   }
 
+}
+
+.container *{
+  text-align: justify;
+}
+
+
+#title{
+    width: 700px;
+    margin: 0 auto;
+    height: 250px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    border: 2px solid #7D7E7C;
+    background-color: #B8AA49;
+    -webkit-box-shadow: #2B0D0D 16px 16px 16px;
+    -moz-box-shadow: #B3B3B3 16px 16px 16px;
+    box-shadow: rgba(32, 28, 28, 0.84) 16px 16px 16px;
 }
