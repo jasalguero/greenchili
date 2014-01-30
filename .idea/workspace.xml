@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cc6884d-596c-462d-8e4a-594451c625a6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg3.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/callout2.JPG" afterPath="$PROJECT_DIR$/img/callout.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylish-portfolio.css" afterPath="$PROJECT_DIR$/css/stylish-portfolio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
     </list>
     <ignored path="greenchilli.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="48" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.0" vertical-offset="241" max-vertical-offset="3555">
+            <state line="23" column="44" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3300">
               <folding />
             </state>
           </provider>
@@ -42,7 +37,7 @@
       <file leaf-file-name="stylish-portfolio.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="129" column="21" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="3720">
+            <state line="142" column="18" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.0" vertical-offset="2130" max-vertical-offset="3900">
               <folding />
             </state>
           </provider>
@@ -123,6 +118,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,7 +181,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,14 +193,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -214,6 +201,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -239,8 +234,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="1024" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1680" height="1024" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -336,14 +331,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="48" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.0" vertical-offset="241" max-vertical-offset="3555">
+        <state line="23" column="44" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3300">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="21" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="3720">
+        <state line="142" column="18" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.0" vertical-offset="2130" max-vertical-offset="3900">
           <folding />
         </state>
       </provider>
