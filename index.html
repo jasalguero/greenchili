@@ -189,8 +189,14 @@
   // CREATE THE MAP
   var createMap = function(){
     // create a map in the "map" div, set the view to a given place and zoom
-    var map = L.map('contact').setView([7.57156, 99.03386], 18);
+    //var map = L.map('contact').setView([7.57156, 99.03386], 18);
 
+    var map = L.map('map', {
+      center: [7.57156, 99.03386],
+      zoom: 15,
+      scrollWheelZoom: false
+
+    });
     // add an OpenStreetMap tile layer
     L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
