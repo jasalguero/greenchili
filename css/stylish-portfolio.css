@@ -172,6 +172,8 @@ i.service-icon {
 
 .portfolio {
   padding: 50px 0;
+  background-color: rgba(39, 25, 0, 0.57);
+  color: #ffffff;
 }
 
 .portfolio-item {
@@ -259,3 +261,12 @@ i.scroll:hover {
     -moz-box-shadow: #B3B3B3 16px 16px 16px;
     box-shadow: rgba(32, 28, 28, 0.84) 16px 16px 16px;
 }
+
+.text-center {
+  text-align: center;
+}
+
+.subheader {
+  font-size: 22px;
+}
+
